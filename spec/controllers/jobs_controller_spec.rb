@@ -5,12 +5,14 @@ RSpec.describe JobsController, type: :controller do
   # Job. As you add validations to Job, be sure to
   # adjust the attributes here as well.
   let(:valid_attributes) do
+    # TODO: replace the skip statement with a hash of valid attributes similar to the example
     # valid attributes must include the position and level values should be 0, 1, or 2 corresponding to junior, intermediate and senior
     # example: { position: 'Developer', level: Job.levels[:senior] }
     skip('Add a hash of attributes valid for your model')
   end
 
   let(:invalid_attributes) do
+    # TODO: replace the skip statement with a hash of valid attributes similar to the example
     skip('Add a hash of attributes invalid for your model')
   end
 
