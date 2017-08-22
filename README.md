@@ -22,6 +22,7 @@ Please go through the functions that are available in the application and come u
 3. navigate to the file that you need to modify and click on edit to make your changes
 4. after you are done with the file, you need to commit your changes, write a meaningful description of your changes in the first form field, leave all other options as-is then click on the "Commit Changes" button
 
+After you are done, please email us a link to your github account so we can review your work.
 
 # Resources
 1. http://rubyonrails.org/
