@@ -5,8 +5,10 @@ Boundless Jobs is a simple sample application that implements job postings manag
 We need to write unit and feature tests to make sure that our code is working well and the application works as intended.
 
 Therefore, your task is to complete the following specs:
-* spec/controllers/jobs_controller_spec.rb : unit tests that make sure the controller code is correct.
-* spec/features/jobs_management_spec.rb : feature test for the jobs management functionality
+
+* spec/controllers/jobs_controller_spec.rb : unit tests that make sure the controller code is correct (note that this spec is almost written, check the comments that start with TODO to see what needs to be done)
+
+* spec/features/jobs_management_spec.rb : feature test for the jobs management functionality (please check the rspec docs and capybara to learn how to write those)
 
 The application can be accessed on the following link:
 
